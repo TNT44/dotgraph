@@ -23,3 +23,16 @@ them into javascript objects, automatically converting inches to pixels where ap
 Note: the list of recognized attributes is currently very short, consisting of `pos` (for
 nodes and edges), `width`, `height`, `bb`, `lp`
 
+---
+this project is build in front of dotgraph.
+
+I change the name to be more realist .. buildgraph.
+
+I take the avantage of dotgraph ast, to build an api that manipulate Graphviz 
+
+The Ast structure is difficult to manipulate. So i add new functions, models and more.
+
+I add jasmine test
+
+
+
